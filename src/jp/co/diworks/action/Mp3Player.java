@@ -13,5 +13,21 @@ public class Mp3Player {
 	public void back() {
 		System.out.println("戻る");
 	}
+	
+	public void music() {
+		System.out.println("music");
+	}
+	public void run() {
+		System.out.println("run");
+	}
+	public void walk() {
+		System.out.println("walk");
+	}
+	public void summer() {
+		System.out.println("summer");
+	}
+	public void winter() {
+		System.out.println("winter");
+	}
 
 }
